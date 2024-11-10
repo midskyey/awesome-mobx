@@ -481,9 +481,8 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [mobx-react-inject](https://github.com/mass3ff3ct/mobx-react-inject)
   Implementation of store injection to React component with MobX, TypeScript and
   decorator metadata
-* [mobx-vue](https://github.com/mobxjs/mobx-vue) - Vue bindings for MobX
-* [vue-mobx](https://www.npmjs.com/package/vue-mobx) MobX bindings for Vue
-* [movue](https://github.com/nighca/movue) - MobX integration for Vue
+* [mobx-vue-lite](https://github.com/mobxjs/mobx-vue-lite) Lightweight Vue 3 bindings for MobX based on Composition API
+* [mobx-vue](https://github.com/mobxjs/mobx-vue) Vue 2 bindings for MobX
 * [mobx-apollo](https://github.com/sonaye/mobx-apollo) A MobX and Apollo Client
   integration utility
 * [mobx-react-intl](https://github.com/Sqooba/mobx-react-intl)
